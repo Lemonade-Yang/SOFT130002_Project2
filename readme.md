@@ -8,20 +8,32 @@ https://github.com/Lemonade-Yang/SOFT130002_Project2
 
 目录结构：
 ```
+/front-src
+	/css
+	/js
 /img
 	/travel-images
-/src
-	/css
-	/json
-	/browse.html
-	/search.html
-	/upload.html
-	/myphoto.html
-	/myfav.html
-	/login.html
-	/register.html
-/index.html
-/readme.md
+		*
+	*
+action.php
+browse.php
+config.php
+detail.php
+fav.php
+filter.php
+index.php
+login.php
+logout.php
+myfav.php
+myphoto.php
+nav.php
+query.php
+readme.md
+refresh_hot_pics.php
+register.php
+search.php
+upload.php
+
 ```
 
 -------------------
