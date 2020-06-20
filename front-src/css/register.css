@@ -1,0 +1,124 @@
+body,html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-image: url("../../img/wallpaper.jpeg");
+    background-size: 100% 100%;
+    position: fixed;
+    top:60px;
+}
+#body-container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin: 100px auto 20px;
+    font-size: 26pt;
+    font-family: 黑体, serif;
+    color: white;
+    font-weight: bold;
+    text-shadow: #000000 1px 0 10px;
+}
+section{
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    margin:0 auto 200px;
+    border-radius: 4px;
+}
+form{
+    width: 330px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 80px;
+}
+label{
+    font-size: 10pt;
+}
+label.required::before {
+    content: '* ';
+    color: red;
+}
+form input{
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 250px;
+    overflow: hidden;
+    border: none;
+    cursor: text;
+    font: 300 11pt Arial;
+    line-height: 45px;
+    margin-left: 10px;
+    box-shadow: 0 4px 6px rgba(26,26,26,1);
+    border-radius: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-left: 10px;
+}
+form input:hover{
+    background-color: white;
+}
+form input::-webkit-input-placeholder{
+    font-family: Arial, serif;
+}
+form input:-ms-input-placeholder{
+    font-family: Arial, serif;
+    border-bottom: none;
+}
+#register-btn{
+    font-size: 12pt;
+    line-height: 40px;
+    color: #ffffff;
+    background: rgba(33, 50, 238, 0.9);
+    border-color: transparent;
+    border-radius: 2px;
+    margin:45px 0 13px 60px;
+    width: 250px;
+    display: block;
+}
+#register-btn:hover{
+    font-size: 13pt;
+    background: rgba(33, 50, 238, 0.98);
+}
+.info{
+    font-weight: bold;
+    font-size: small;
+    color: darkred;
+    text-align: left;
+    padding-left: 30px;
+    background: rgba(204, 204, 204, 0.2);
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.title-area {
+    font-size: 40pt;
+    position: relative;
+    margin: 80px auto 20px;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.title-area .title{
+    font-family: 中国式手写风, serif;
+    color: #001935;
+    background: #EEE url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAAHklEQVQImWNkYGBgYGD4//8/A5wF5SBYyAr+//8PAPOCFO0Q2zq7AAAAAElFTkSuQmCC) repeat;
+    text-shadow: 3px -3px #001935, 2px -2px white;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-decoration: underline #001935;
+}
+.title-area .intro{
+    margin-top: 20px;
+    font-size: 16pt;
+    font-family: 中国式手写风,serif;
+    color: #000;
+}
+form svg{
+    vertical-align: middle;
+    width: 25px;
+    height: 25px;
+}

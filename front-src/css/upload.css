@@ -1,0 +1,116 @@
+section{
+    min-height: 800px;
+}
+#upload{
+    width: 700px;
+    margin: 100px auto;
+    text-align: left;
+}
+#upload form{
+    background-color:white;
+    border-radius: 6px;
+}
+#line1{
+    background-color:white;
+    width: 700px;
+    border: none;
+    vertical-align: bottom;
+    border-bottom: 2px solid #001935;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    height: 60px;
+    display: inline-block;
+}
+#upload input[name='title']{
+    background-color:white;
+    border-top-left-radius: 6px;
+    width: 600px;
+    overflow: hidden;
+    border: none;
+    cursor: text;
+    font: 300 18pt "Times New Roman",serif;
+    font-weight: bold;
+    line-height: 60px;
+    padding: 0 20px;
+}
+#select-button {
+    cursor: pointer;
+    vertical-align: bottom;
+}
+#select-button svg{
+    width: 40px;
+    height: 40px;
+    vertical-align: bottom;
+    margin-bottom: 5px;
+}
+#line2{
+    width: 700px;
+    padding: 0;
+}
+#upload textarea{
+    width: 660px;
+    resize:none;
+    cursor: text;
+    font: 500 13pt "Times New Roman",serif;
+    line-height: 1.6;
+    border: none;
+    padding: 10px 20px;
+}
+#upload input[type='file'] {
+    border:none;
+    display:none;
+}
+.hide{
+    display: none;
+}
+#upload img{
+    width: 700px;
+}
+#line3{
+    border-top: 1px solid #001935;
+    width: 700px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    text-align: right;
+}
+#upload .tag{
+    color: #969696;
+    padding: 10px 0 0 20px;
+    line-height: 40px;
+}
+#upload .tag input{
+    background-color:white;
+    width: 120px;
+    overflow: hidden;
+    border: none;
+    cursor: text;
+    line-height: 40px;
+    font: 300 12pt "Times New Roman",serif;
+    border-bottom: 1px solid #969696;
+    margin: 0 20px 0 10px;
+}
+#line4{
+    text-align: right;
+    background-color: #07071f;
+}
+#submit{
+    font-size: 12pt;
+    font-weight: bold;
+    line-height: 40px;
+    background: #ff5000;
+    border-color: transparent;
+    border-radius: 6px;
+    margin-top:20px;
+    width: 80px;
+    color: white;
+    box-shadow: 0 4px 6px rgba(26,26,26,1);
+}
+#info{
+    padding:20px 0 0 20px;
+    font-size: 11px;
+    color: silver;
+}
+#alert{
+    margin-top: -40px;
+    color: silver;
+}

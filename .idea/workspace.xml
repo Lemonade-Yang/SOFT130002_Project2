@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="013cf3d0-58de-469c-a05e-0de9b93a3abf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.3.5" />
+  <component name="ProjectId" id="1ZEkhKlhBS9YNt6dGREFRJEIONs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front-src/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\0.NULL\FDU\study\web\pj\code2\front-src\js" />
+      <recent name="E:\0.NULL\FDU\study\web\pj\code2\front-src\css" />
+      <recent name="E:\0.NULL\FDU\study\web\pj\code\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\0.NULL\FDU\study\web\pj\code2" />
+      <recent name="E:\0.NULL\FDU\study\web\pj\code2\front-src" />
+      <recent name="E:\0.NULL\FDU\study\web\pj\code\src" />
+      <recent name="E:\0.NULL\FDU\study\web\pj\code\" />
+      <recent name="E:\0.NULL\FDU\study\web\pj\code\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013cf3d0-58de-469c-a05e-0de9b93a3abf" name="Default Changelist" comment="" />
+      <created>1584411758638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584411758638</updated>
+      <workItem from="1584411759974" duration="2732000" />
+      <workItem from="1584926371141" duration="629000" />
+      <workItem from="1585464562965" duration="7953000" />
+      <workItem from="1585532620478" duration="8436000" />
+      <workItem from="1585550927050" duration="10537000" />
+      <workItem from="1585570498149" duration="8127000" />
+      <workItem from="1585619559363" duration="5332000" />
+      <workItem from="1585635746806" duration="11154000" />
+      <workItem from="1585725782173" duration="8002000" />
+      <workItem from="1586076016698" duration="30000" />
+      <workItem from="1586083251525" duration="2929000" />
+      <workItem from="1586158111544" duration="13247000" />
+      <workItem from="1586309145179" duration="52000" />
+      <workItem from="1586499980198" duration="8966000" />
+      <workItem from="1586513901307" duration="14895000" />
+      <workItem from="1586529809232" duration="3490000" />
+      <workItem from="1586668072313" duration="6752000" />
+      <workItem from="1586846331981" duration="2291000" />
+      <workItem from="1591665706831" duration="628000" />
+      <workItem from="1591666784047" duration="20505000" />
+      <workItem from="1591772097049" duration="882000" />
+      <workItem from="1591773457095" duration="8554000" />
+      <workItem from="1591791714606" duration="15286000" />
+      <workItem from="1591841309463" duration="7537000" />
+      <workItem from="1591923598020" duration="25639000" />
+      <workItem from="1592622193459" duration="1798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

@@ -1,0 +1,99 @@
+section{
+    width:950px;
+    margin:100px auto;
+    border-radius: 4px;
+    text-align: center;
+}
+#picture-container{
+    width: 950px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(26,26,26,0.3);
+}
+article{
+    width: 950px;
+    margin: 15px auto;
+    height: 300px;
+    background-color: white;
+    box-shadow:0 0 8px #000;
+    border-radius: 8px;
+}
+article .pic-intro:hover{
+    text-decoration: underline solid black;
+}
+article .pic-img{
+    width: 444px;
+    height: 294px;
+    float: left;
+    border-radius: 6px;
+    box-shadow:0 0 8px #000;
+    margin: 3px;
+}
+article .pic-img:hover{
+    width: 458px;
+    height: 308px;
+    border-radius: 6px;
+    box-shadow:0 2px 10px #000;
+    margin: -4px;
+}
+article img:hover{
+    width: 460px;
+    height: 310px;
+    z-index: 10;
+}
+article img{
+    width: 444px;
+    height: 294px;
+    border-radius: 6px;
+}
+article a{
+    text-decoration: none;
+}
+article .pic-text{
+    height: 220px;
+    margin-left: 380px;
+    color: #001935;
+    line-height: 1.6;
+    font-family: "Times New Roman",serif;
+    overflow: hidden;
+    border-left: 2px dotted #001935;
+}
+article .pic-title{
+    width: 450px;
+    margin: 0 auto;
+    padding: 30px 0 10px;
+    font-size: large;
+    font-weight: bold;
+    border-bottom: 2px dashed #001935;
+    overflow: hidden;
+}
+article .pic-intro{
+    width: 400px;
+    margin: 10px  auto;
+    overflow: hidden;
+    text-align: left;
+    padding: 0 10px;
+    height: 130px;
+}
+.action{
+    text-align: right;
+}
+.action button{
+    font-size: 12pt;
+    font-weight: bold;
+    line-height: 35px;
+    background: #ff5000;
+    border-color: transparent;
+    border-radius: 6px;
+    margin:30px 15px 5px 5px;
+    width: 90px;
+    color: white;
+    box-shadow: 2px 3px 4px rgba(26,26,26,1);
+}
+section footer{
+    margin: 40px 0 90px 0;
+}
+section footer svg{
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
